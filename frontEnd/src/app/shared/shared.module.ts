@@ -15,7 +15,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     NgbModule
   ],
   exports:[    
-      PruebaComponent
+      PruebaComponent,
+      PreviewComponent
   ]
 })
 export class SharedModule { }
